@@ -60,12 +60,12 @@ The project utilizes publicly available medical datasets. Ensure compliance with
 
 ## Usage
 
-1. **Prepare the Dataset**:
-2. **Data Preprocessing**:
-3. **Feature Selection**:
-4. **Model Training**:
-5. **Model Evaluation**:
-6. **Prediction**:
+1. **Prepare the Dataset**
+2. **Data Preprocessing**
+3. **Feature Selection**
+4. **Model Training**
+5. **Model Evaluation**
+6. **Prediction**
 
 
 
